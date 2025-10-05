@@ -4,7 +4,7 @@ PLEASE NOTE THAT THIS IS A PROTOTYPE MODEL...
 
 NOTE: You need the to have the four files downloaded in the same file folder, with the same file name. BEFORE PROCEEDING - Please download Python latest on then Microsoft store, then run the terminal tab "pip install requests flask flask-cors numpy". Once all of it is running you need to generate your own api from NASA dataset to access API key provided, then simply run the code.
 
-Used in Python terminal: Step by step to download missing parts
+Used in Python terminal: Step by step to download the following packages:
 - pip install requests
 - m pip install flask
 - pip install python-dotenv
