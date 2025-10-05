@@ -2,7 +2,7 @@ How to use the website: Meteor Impact-Sim
 
 PLEASE NOTE THAT THIS IS A PROTOTYPE MODEL...
 
-NOTE: You need the to have four files downloaded in the same file folder, with the same file name. BEFORE PROCEEDING - Please download the latest Python version on Microsoft Store, then run the terminal tab "pip install requests flask flask-cors numpy". Once all of it is running, you need to generate your own API from NASA API to access API key provided, then simply run the code.
+NOTE: You need to have four files downloaded in the same file folder, with the same file name. BEFORE PROCEEDING - Please download the latest Python version on Microsoft Store, then run the terminal tab "pip install requests flask flask-cors numpy". Once all of it is running, you need to generate your own API from NASA API to access API key provided, then simply run the code.
 
 *Note: The app.py only extracts from the NASA API dataset within the range of 7 days.
 
